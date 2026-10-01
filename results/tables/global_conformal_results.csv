@@ -1,0 +1,4 @@
+Condition,Target_Coverage,Threshold,Coverage,Average_Set_Size,Abstention_Rate
+Original,0.9,0.8286994926075155,0.9025,1.9,0.0
+Mild Spelling Shift,0.9,0.8084684908459644,0.9025,1.9,0.0
+Severe Spelling Shift,0.9,0.7884070081396117,0.9025,1.88875,0.0

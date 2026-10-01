@@ -1,0 +1,18 @@
+{
+    "model_name": "xlm-roberta-base",
+    "approach": "frozen_embeddings_logistic_regression",
+    "max_length": 128,
+    "batch_size": 8,
+    "random_seed": 42,
+    "device": "cpu",
+    "train_file": "data/processed/train_clean.csv",
+    "script_shift_file": "data/script_shift/validation_script_shift_full.csv",
+    "conditions": [
+        "original",
+        "romanized",
+        "telugu_script",
+        "mixed_script",
+        "mild_noise",
+        "severe_noise"
+    ]
+}

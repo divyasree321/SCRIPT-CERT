@@ -1,0 +1,14 @@
+metric,value
+accuracy,0.72875
+correct_count,583.0
+incorrect_count,217.0
+mean_confidence_correct,0.690269245917869
+median_confidence_correct,0.6870345715210683
+mean_confidence_incorrect,0.611171290569974
+median_confidence_incorrect,0.5968144384976386
+high_confidence_incorrect_count,6.0
+high_confidence_incorrect_percentage,0.75
+mean_confidence_change_original_to_mild,-0.012668118718200796
+mean_confidence_change_original_to_severe,-0.024899054068794686
+mean_confidence_change_correct_original_to_mild,-0.017573962517500413
+mean_confidence_change_correct_original_to_severe,-0.03411237758320433

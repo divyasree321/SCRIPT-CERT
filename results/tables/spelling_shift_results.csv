@@ -1,0 +1,4 @@
+Condition,Validation_Samples,Changed_Predictions,Prediction_Flip_Rate,Prediction_Flip_Rate_Percent
+Original,800,0,0.0,0.0
+Mild Spelling Shift,800,45,0.05625,5.625
+Severe Spelling Shift,800,83,0.10375,10.375

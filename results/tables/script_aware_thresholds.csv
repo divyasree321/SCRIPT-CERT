@@ -1,0 +1,4 @@
+Script,Calibration_Samples,Threshold,Target_Coverage
+Latin/Romanized,221,0.798072136698912,0.9
+Telugu,131,0.8083360330129984,0.9
+Mixed,47,0.8824348964864671,0.9

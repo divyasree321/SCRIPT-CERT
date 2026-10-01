@@ -1,0 +1,5 @@
+Condition,True_Label,Total_Samples,Flip_Count,Flip_Rate
+mild,hate,31,31,1.0
+mild,non-hate,26,26,1.0
+severe,hate,59,59,1.0
+severe,non-hate,77,77,1.0

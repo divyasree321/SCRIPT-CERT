@@ -1,0 +1,31 @@
+{
+    "method": "Script-Aware Split Conformal Prediction",
+    "model": "XLM-R",
+    "target_coverage": 0.9,
+    "random_state": 42,
+    "calibration_samples": 400,
+    "final_evaluation_samples": 400,
+    "minimum_group_calibration": 30,
+    "global_threshold": 0.6807555271186755,
+    "script_thresholds": {
+        "Latin/Romanized": 0.7022637640193692,
+        "Mixed": 0.5789674988218485,
+        "Other": 0.6807555271186755,
+        "Telugu": 0.7436135710408939
+    },
+    "script_calibration_sample_counts": {
+        "Latin/Romanized": 221,
+        "Mixed": 47,
+        "Other": 1,
+        "Telugu": 131
+    },
+    "small_group_policy": "Use global threshold",
+    "conditions": [
+        "original",
+        "romanized",
+        "telugu_script",
+        "mixed_script",
+        "mild_noise",
+        "severe_noise"
+    ]
+}

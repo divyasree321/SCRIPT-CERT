@@ -1,0 +1,27 @@
+{
+    "model": "google/muril-base-cased",
+    "embedding_method": "mean_pooling",
+    "classifier": "LogisticRegression",
+    "classifier_parameters": {
+        "max_iter": 2000,
+        "class_weight": "balanced",
+        "solver": "lbfgs",
+        "random_state": 42
+    },
+    "batch_size": 16,
+    "max_length": 64,
+    "seed": 42,
+    "device": "cpu",
+    "training_file": "c:\\SCRIPT_CERT\\data\\processed\\train_clean.csv",
+    "script_shift_file": "c:\\SCRIPT_CERT\\data\\script_shift\\script_shift_base.csv",
+    "training_samples": 3200,
+    "script_shift_samples": 800,
+    "conditions": [
+        "original",
+        "romanized",
+        "telugu_script",
+        "mixed_script",
+        "mild_noise",
+        "severe_noise"
+    ]
+}

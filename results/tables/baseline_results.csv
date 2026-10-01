@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced_Accuracy,Macro_F1,Macro_Precision,Macro_Recall
+TF-IDF + Logistic Regression,0.7312,0.7319,0.7312,0.732,0.7319

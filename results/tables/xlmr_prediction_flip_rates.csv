@@ -1,0 +1,7 @@
+condition,flip_rate,flip_count,total_samples
+original,0.0,0,800
+romanized,0.19625,157,800
+telugu_script,0.11875,95,800
+mixed_script,0.11125,89,800
+mild_noise,0.08875,71,800
+severe_noise,0.17125,137,800

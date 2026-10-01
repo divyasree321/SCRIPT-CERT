@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.log
+
+# Large/local model files
+results/embeddings/
+results/muril_model/
+
+# Temporary files
+*.tmp
+*.bak

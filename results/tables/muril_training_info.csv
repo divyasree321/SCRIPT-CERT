@@ -1,0 +1,2 @@
+model,embedding_method,classifier,training_samples,embedding_dimension,batch_size,max_length,device,seed,class_weight,max_iter
+google/muril-base-cased,Mean Pooling,LogisticRegression,3200,768,16,64,cpu,42,balanced,2000

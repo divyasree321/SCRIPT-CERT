@@ -1,0 +1,2 @@
+model,approach,training_samples,embedding_dimension,max_length,batch_size,device,random_seed,num_conditions
+xlm-roberta-base,Frozen XLM-R embeddings + Logistic Regression,4000,768,128,8,cpu,42,6

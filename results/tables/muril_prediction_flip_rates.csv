@@ -1,0 +1,7 @@
+Condition,Flip Count,Flip Rate
+original,0,0.0
+romanized,346,0.4325
+telugu_script,447,0.55875
+mixed_script,443,0.55375
+mild_noise,349,0.43625
+severe_noise,350,0.4375

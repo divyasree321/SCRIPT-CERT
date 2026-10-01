@@ -1,0 +1,6 @@
+﻿condition,n_examples,mean_similarity,median_similarity,min_similarity,max_similarity,automated_preserved,automated_changed,automated_preservation_rate
+romanized,200,0.8049,1.0,0.222,1.0,117,83,0.585
+telugu_script,200,0.8096,0.843,0.2809,1.0,133,67,0.665
+mixed_script,200,0.9114,1.0,0.334,1.0,184,16,0.92
+mild_noise,200,0.953,0.987,0.5469,1.0,192,8,0.96
+severe_noise,200,0.8932,0.9383,0.4617,1.0,182,18,0.91

@@ -1,0 +1,4 @@
+Condition,Brier_Score,ECE
+Original,0.1819,0.0624
+Mild Spelling Shift,0.1917,0.0564
+Severe Spelling Shift,0.2018,0.0516

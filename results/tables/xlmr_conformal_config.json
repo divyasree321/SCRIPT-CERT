@@ -1,0 +1,19 @@
+{
+    "method": "Split Conformal Prediction",
+    "model": "XLM-R",
+    "target_coverage": 0.9,
+    "random_state": 42,
+    "calibration_samples": 400,
+    "final_evaluation_samples": 400,
+    "calibration_condition": "original",
+    "conditions_evaluated": [
+        "original",
+        "romanized",
+        "telugu_script",
+        "mixed_script",
+        "mild_noise",
+        "severe_noise"
+    ],
+    "nonconformity_score": "1 - probability_of_true_class",
+    "prediction_rule": "1 - probability <= conformal_threshold"
+}

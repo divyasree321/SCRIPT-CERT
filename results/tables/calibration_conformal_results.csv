@@ -1,0 +1,4 @@
+Condition,ECE,Conformal_Coverage,Conformal_Average_Set_Size,Threshold
+Original,0.23873031238648695,,,
+Mild Spelling Shift,0.2108059815227335,0.9025,1.9,0.8084684908459644
+Severe Spelling Shift,0.18710872296788322,0.9025,1.88875,0.7884070081396117

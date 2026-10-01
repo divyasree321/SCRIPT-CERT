@@ -1,0 +1,5 @@
+Condition,True_Label,Total_Samples,Flip_Count,Flip_Rate
+Mild,hate,388,31,0.07989690721649484
+Mild,non-hate,412,26,0.06310679611650485
+Severe,hate,388,59,0.15206185567010308
+Severe,non-hate,412,77,0.18689320388349515

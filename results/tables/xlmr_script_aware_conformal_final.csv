@@ -1,0 +1,7 @@
+Condition,Target Coverage,Coverage,Average Prediction Set Size,Singleton Sets,Full Sets,Empty Sets,Human Review Rate,Global Threshold,Calibration Samples,Final Evaluation Samples
+original,0.9,0.93,1.42,232,168,0,0.42,0.6807555271186755,400,400
+romanized,0.9,0.9075,1.5275,189,211,0,0.5275,0.6807555271186755,400,400
+telugu_script,0.9,0.9125,1.4825,207,193,0,0.4825,0.6807555271186755,400,400
+mixed_script,0.9,0.9175,1.465,214,186,0,0.465,0.6807555271186755,400,400
+mild_noise,0.9,0.925,1.465,214,186,0,0.465,0.6807555271186755,400,400
+severe_noise,0.9,0.9175,1.5275,189,211,0,0.5275,0.6807555271186755,400,400

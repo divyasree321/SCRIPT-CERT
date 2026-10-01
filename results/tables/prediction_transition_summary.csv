@@ -1,0 +1,5 @@
+Condition,Transition,Flip_Count
+mild,hate -> non-hate,26
+mild,non-hate -> hate,31
+severe,hate -> non-hate,44
+severe,non-hate -> hate,92

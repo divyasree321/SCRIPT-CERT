@@ -1,0 +1,4 @@
+Condition,Coverage,Average Prediction Set Size,Singleton Sets,Full Sets,Human Review Rate
+Original,0.9125,1.35625,103,57,0.35625
+Mild spelling shift,0.9125,1.44375,89,71,0.44375
+Severe spelling shift,0.9375,1.53125,75,85,0.53125

@@ -1,0 +1,8 @@
+Measure,Value
+Total validation samples,800.0
+Correct hate predictions,293.0
+Correct non-hate predictions,292.0
+False-safe predictions,95.0
+False-alarm predictions,120.0
+False-safe rate,11.88
+Overall error rate,26.88
