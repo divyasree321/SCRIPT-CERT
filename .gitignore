@@ -8,3 +8,5 @@ results/embeddings/
 results/muril_model/
 *.tmp
 *.bak
+
+results/live_model/encoder/model.safetensors

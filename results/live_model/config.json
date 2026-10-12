@@ -1,0 +1,12 @@
+{
+  "base_model": "xlm-roberta-base",
+  "max_length": 128,
+  "pooling": "attention-mask-weighted mean pooling",
+  "classifier": "LogisticRegression",
+  "training_rows": 4000,
+  "labels": [
+    "hate",
+    "non-hate"
+  ],
+  "device_used_for_creation": "cpu"
+}
