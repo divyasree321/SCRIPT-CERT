@@ -1,0 +1,9 @@
+﻿streamlit==1.65.0
+pandas==2.2.3
+plotly==7.1.0
+scikit-learn==1.5.2
+transformers==5.17.0
+torch==2.14.0
+numpy
+matplotlib
+openpyxl
